@@ -18,9 +18,9 @@ global.statusseen = false;                 //make true to view statuses
 
 
 //
-global.Owner = [""];
-global.OwnerNumber = [""]; 
-global.ownertag = [""]; 
+global.Owner = ["Abraham"];
+global.OwnerNumber = ["+2349012236158"]; 
+global.ownertag = ["."]; 
 global.OwnerName = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
 global.BotName = "🐦Makino-md-v2";
 global.packname = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";                             //Do not change.
